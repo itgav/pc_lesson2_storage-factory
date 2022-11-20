@@ -1,4 +1,4 @@
-# Lesson #2: Storage Factor
+# Lesson #2: Storage Factory
 My code/notes for Lesson 2 of Patrick Collins' Solidity w/ Python tutorial
 
 ### Links to Patrick Collins' Tutorial
